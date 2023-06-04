@@ -1,0 +1,10 @@
+openai
+numpy
+tqdm
+click
+conllu
+datasets
+nltk
+torch
+transformers[torch]
+pandas
